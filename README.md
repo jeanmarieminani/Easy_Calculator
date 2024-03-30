@@ -8,7 +8,9 @@ User-friendy interface
 Cross-platform compatibility
 How to use it
 Enter a first number, then click on operator, after  enter a second number
-# Easy Calculator
+
+# Easy Calculator Project
+# copy and paste the following python code into your jupyter notebook, run the cell and follow instructions
 num1 = float(input("Enter first number: "))
 op = input("Enter operator: ")
 num2 = float(input("Enter second number: "))
